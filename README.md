@@ -13,8 +13,17 @@ cuDNN vs DP vs MP vs Hybrid:
 cuDNN base paper: https://arxiv.org/pdf/1410.0759.pdf
 
 Benchmarking and evaluation:
+
 Toolkit : https://svail.github.io/DeepBench/
+
 Papers: https://www2.seas.gwu.edu/~howie/publications/GPU-CNN-ICPP16.pdf
+
 MaxDNN: https://arxiv.org/pdf/1501.06633.pdf
+
 Batch Normalization: https://arxiv.org/pdf/1807.01702.pdf
+
 FixyNN: https://www.sysml.cc/doc/2019/69.pdf
+
+u-cuDNN: https://arxiv.org/pdf/1804.04806.pdf
+
+
