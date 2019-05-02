@@ -6,7 +6,8 @@ Few links on neural network maths & tensorflow impl:
 1. http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/
 2. https://ebookcentral.proquest.com/lib/UTXA/detail.action?docID=5314509
 3. https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9
-
+4. https://medium.com/syncedreview/how-to-train-a-very-large-and-deep-model-on-one-gpu-7b7edfe2d072
+5. https://medium.com/coinmonks/understand-alexnet-in-just-3-minutes-with-hands-on-code-using-tensorflow-925d1e2e2f82
 
 cuDNN vs DP vs MP vs Hybrid:
 
