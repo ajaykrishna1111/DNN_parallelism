@@ -27,4 +27,5 @@ FixyNN: https://www.sysml.cc/doc/2019/69.pdf
 
 u-cuDNN: https://arxiv.org/pdf/1804.04806.pdf
 
+Multi-GPU communication: http://people.bu.edu/joshi/files/evaluation-multi-gpu-iiswc-2018.pdf
 
